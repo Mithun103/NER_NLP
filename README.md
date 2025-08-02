@@ -68,7 +68,7 @@ This project is an **AI-powered resume parser** that uses Transformer-based Name
 
 ```
 .
-├── resume_parser.py          # Core parsing logic
+├── NER_NLP.py          # Core parsing logic
 ├── sample_resume.pdf         # Input test resume
 ├── README.md                 # This file
 ```
